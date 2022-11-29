@@ -1,0 +1,1 @@
+# Generalized *Cuckoo* Card Game
